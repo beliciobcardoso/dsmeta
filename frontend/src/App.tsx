@@ -1,7 +1,6 @@
 import { Header } from './components/Header';
-import { NotificationButton } from './components/NotificationButton';
-import './components/Header/styles.css';
 import { SalesCard } from './components/SalesCard';
+import './components/Header/styles.css';
 
 function App() {
   return (

@@ -11,8 +11,13 @@
 }
 
 .dsmeta-form-control-container {
+  display: flex;
+  align-items: center;
   margin-bottom: 16px;
-  max-width: 300px;
+  max-width: 230px;
+}
+.dsmeta-form-control-container > label {
+  font-weight: 500;
 }
 
 .dsmeta-form-control {
